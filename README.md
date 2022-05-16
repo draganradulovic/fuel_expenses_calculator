@@ -6,6 +6,6 @@ Program takes following parameters from the input: starting city, destination ci
 Using selenium webdriver, it searches google maps in order to find distance between start and destination.\
 Then, using selenium webdriver, it searches https://autotraveler.ru/en/spravka/fuel-price-in-europe.html page, in order to get current fuel price for
 the specified fuel and state.\
-Program then uses the found data to calculate fuel expenses.\
+Program then uses the found data to calculate fuel expenses.
 
 For better efficiency, it runs on headless browser.
