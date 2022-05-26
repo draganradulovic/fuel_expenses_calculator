@@ -15,6 +15,7 @@ def expenses_calculator():
     fuel_liters=(route_lenght/100.00)*consumption
     total_price=fuel_liters*fuel_price
     total_price = "{:.2f}".format(total_price)
+    
     print("--TRAVEL INFO:--")
     print("Amount of money needed for fuel: ",total_price,"€")
     print("Path lenght: "+str(route_lenght)+" km")
