@@ -8,4 +8,4 @@ Then, using Selenium WebDriver, it searches https://autotraveler.ru/en/spravka/f
 the specified fuel and state.\
 Program then uses the found data to calculate fuel expenses.
 
-For better efficiency, it runs on headless browser.
+For better efficiency, it runs on headless browser. 
